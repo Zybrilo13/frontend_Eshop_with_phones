@@ -22,7 +22,3 @@ export default {
   }
 }
 </script>
-
-<style>
-/* Глобальні стилі якщо треба */
-</style>
