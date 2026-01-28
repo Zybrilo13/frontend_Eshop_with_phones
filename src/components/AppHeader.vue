@@ -7,7 +7,7 @@
         <RouterLink class="nav-link me-3 text-white" to="/">Home Page</RouterLink>
 
         <RouterLink to="/cart" class="btn btn-light position-relative">
-          BASKET
+          CART
           <span v-if="cartCount > 0" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
             {{ cartCount }}
           </span>

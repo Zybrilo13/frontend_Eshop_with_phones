@@ -8,7 +8,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         slug: 'iphone-15',
         name: 'iPhone 15',
         price: 999,
-        description: 'The latest iPhone with a powerful A16 chip and USB-C connector.',
+        description: 'IPhone with a powerful A16 chip and USB-C connector.',
         image: '/frontend_Eshop_with_phones/img/iphone15.jpg',
       },
       {
