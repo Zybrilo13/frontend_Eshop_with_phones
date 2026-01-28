@@ -9,7 +9,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'iPhone 15',
         price: 999,
         description: 'The latest iPhone with a powerful A16 chip and USB-C connector.',
-        image: '/img/iphone15.jpg',
+        image: '/frontend_Eshop_with_phones/public/img/iphone15.jpg',
       },
       {
         id: 2,
@@ -17,7 +17,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Samsung S24',
         price: 899,
         description: 'Samsung\'s flagship with Galaxy AI artificial intelligence features.',
-        image: '/img/pixel 8.jpg'
+        image: '/frontend_Eshop_with_phones/public/img/s24.jpg'
       },
       {
         id: 3,
@@ -25,7 +25,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Google Pixel 8',
         price: 799,
         description: 'Pure Android, the best camera for night photography, and smart features.',
-        image: '/img/s24.jpg'
+        image: '/frontend_Eshop_with_phones/public/img/pixel 8.jpg'
       },
       {
         id: 4,
