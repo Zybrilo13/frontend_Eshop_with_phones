@@ -33,7 +33,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Xiaomi 13',
         price: 650,
         description: 'Top value for money. Fast 67W charging and a superb screen.',
-        image: '/img/Xiaomi 13.jpg',
+        image: '/frontend_Eshop_with_phones/img/Xiaomi 13.jpg',
       },
       {
         id: 5,
@@ -41,7 +41,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Sony Xperia 1',
         price: 1100,
         description: 'For film and photography enthusiasts. 4K OLED display and professional cameras.',
-        image: '/img/xperia.jpg'
+        image: '/frontend_Eshop_with_phones/img/xperia.jpg'
       },
 
       {
@@ -50,7 +50,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'OnePlus 12',
         price: 850,
         description: 'Incredible speed and charging that charges in 20 minutes.',
-        image: '/img/one-plus12.jpg'
+        image: '/frontend_Eshop_with_phones/img/one-plus12.jpg'
       },
       {
         id: 7,
@@ -58,7 +58,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Samsung Z Flip 5',
         price: 999,
         description: 'A stylish foldable smartphone that fits in any pocket.',
-        image: '/img/flip5.jpg'
+        image: '/frontend_Eshop_with_phones/img/flip5.jpg'
       },
       {
         id: 8,
@@ -66,7 +66,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Asus ROG Phone 8',
         price: 1200,
         description: 'A monster for gaming. RGB lighting and the most powerful cooling.',
-        image: '/img/rog-phone-8.jpg'
+        image: '/frontend_Eshop_with_phones/img/rog-phone-8.jpg'
       },
       {
         id: 9,
@@ -74,7 +74,7 @@ export const usePhoneStore = defineStore('phoneStore', {
         name: 'Motorola Edge 40',
         price: 450,
         description: 'A slim, lightweight and elegant smartphone with pure Android.',
-        image: '/img/edge40.jpg'
+        image: '/frontend_Eshop_with_phones/img/edge40.jpg'
       }
     ],
     cart: []
