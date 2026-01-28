@@ -1,6 +1,6 @@
 <template>
   <div class="container py-4">
-    <h2 class="mb-4">Your Basket</h2>
+    <h2 class="mb-4">Your Cart</h2>
 
     <div v-if="cart.length > 0">
       <div class="table-responsive">
@@ -37,7 +37,7 @@
     </div>
 
     <div v-else class="text-center py-5">
-      <h3 class="text-muted">Your Basket is Empty</h3>
+      <h3 class="text-muted">Your Cart is Empty</h3>
       <RouterLink to="/" class="btn btn-primary mt-3">Go to shopping</RouterLink>
     </div>
   </div>
